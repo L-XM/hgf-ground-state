@@ -1,0 +1,6 @@
+E0 -2.0 trap Pauli: 1.6172104295e-314
+perturbed Pauli: -2.000000000000001
+trap uniform dirs: -1.9998781485651342
+init E 0.365 |g| 1.545 final E 0.0 weights [0. 1. 0. 0. 0. 0. 0. 0.]
+init E 1.983 |g| 0.368 final E 0.0 weights [0. 1. 0. 0. 0. 0. 0. 0.]
+init E 0.127 |g| 0.975 final E 0.0 weights [0. 1. 0. 0. 0. 0. 0. 0.]

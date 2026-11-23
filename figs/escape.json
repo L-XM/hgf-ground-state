@@ -1,0 +1,302 @@
+{
+ "heisenberg/iid": [
+  {
+   "level": -1.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 141.5
+  },
+  {
+   "level": 0.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 68.0
+  }
+ ],
+ "heisenberg/single_cnot": [
+  {
+   "level": -1.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 183.5
+  },
+  {
+   "level": 0.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 68.0
+  }
+ ],
+ "heisenberg/one_direction": [
+  {
+   "level": -1.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 786.0
+  },
+  {
+   "level": 0.0,
+   "escaped": 12,
+   "trials": 12,
+   "median": 383.5
+  }
+ ],
+ "random2local/iid": [
+  {
+   "level": -8.072301848,
+   "escaped": 12,
+   "trials": 12,
+   "median": 351.0
+  },
+  {
+   "level": -7.286101868,
+   "escaped": 12,
+   "trials": 12,
+   "median": 253.0
+  },
+  {
+   "level": -6.554884928,
+   "escaped": 12,
+   "trials": 12,
+   "median": 191.0
+  },
+  {
+   "level": -5.441732567,
+   "escaped": 12,
+   "trials": 12,
+   "median": 166.0
+  },
+  {
+   "level": -2.99258058,
+   "escaped": 12,
+   "trials": 12,
+   "median": 111.5
+  },
+  {
+   "level": -1.832093108,
+   "escaped": 12,
+   "trials": 12,
+   "median": 95.5
+  },
+  {
+   "level": -0.110795786,
+   "escaped": 12,
+   "trials": 12,
+   "median": 78.0
+  },
+  {
+   "level": 0.855761945,
+   "escaped": 12,
+   "trials": 12,
+   "median": 71.5
+  },
+  {
+   "level": 1.091106346,
+   "escaped": 12,
+   "trials": 12,
+   "median": 58.5
+  },
+  {
+   "level": 3.017393199,
+   "escaped": 12,
+   "trials": 12,
+   "median": 63.5
+  },
+  {
+   "level": 5.327356351,
+   "escaped": 12,
+   "trials": 12,
+   "median": 54.5
+  },
+  {
+   "level": 6.221151545,
+   "escaped": 12,
+   "trials": 12,
+   "median": 43.0
+  },
+  {
+   "level": 7.508202017,
+   "escaped": 12,
+   "trials": 12,
+   "median": 42.0
+  },
+  {
+   "level": 8.905170683,
+   "escaped": 12,
+   "trials": 12,
+   "median": 39.0
+  }
+ ],
+ "random2local/single_cnot": [
+  {
+   "level": -8.072301848,
+   "escaped": 12,
+   "trials": 12,
+   "median": 531.0
+  },
+  {
+   "level": -7.286101868,
+   "escaped": 12,
+   "trials": 12,
+   "median": 331.5
+  },
+  {
+   "level": -6.554884928,
+   "escaped": 12,
+   "trials": 12,
+   "median": 250.0
+  },
+  {
+   "level": -5.441732567,
+   "escaped": 12,
+   "trials": 12,
+   "median": 228.0
+  },
+  {
+   "level": -2.99258058,
+   "escaped": 12,
+   "trials": 12,
+   "median": 113.0
+  },
+  {
+   "level": -1.832093108,
+   "escaped": 12,
+   "trials": 12,
+   "median": 104.0
+  },
+  {
+   "level": -0.110795786,
+   "escaped": 12,
+   "trials": 12,
+   "median": 75.0
+  },
+  {
+   "level": 0.855761945,
+   "escaped": 12,
+   "trials": 12,
+   "median": 65.5
+  },
+  {
+   "level": 1.091106346,
+   "escaped": 12,
+   "trials": 12,
+   "median": 48.5
+  },
+  {
+   "level": 3.017393199,
+   "escaped": 12,
+   "trials": 12,
+   "median": 50.0
+  },
+  {
+   "level": 5.327356351,
+   "escaped": 12,
+   "trials": 12,
+   "median": 38.5
+  },
+  {
+   "level": 6.221151545,
+   "escaped": 12,
+   "trials": 12,
+   "median": 34.0
+  },
+  {
+   "level": 7.508202017,
+   "escaped": 12,
+   "trials": 12,
+   "median": 33.0
+  },
+  {
+   "level": 8.905170683,
+   "escaped": 12,
+   "trials": 12,
+   "median": 29.5
+  }
+ ],
+ "random2local/one_direction": [
+  {
+   "level": -8.072301848,
+   "escaped": 12,
+   "trials": 12,
+   "median": 2160.0
+  },
+  {
+   "level": -7.286101868,
+   "escaped": 12,
+   "trials": 12,
+   "median": 1463.5
+  },
+  {
+   "level": -6.554884928,
+   "escaped": 12,
+   "trials": 12,
+   "median": 1185.5
+  },
+  {
+   "level": -5.441732567,
+   "escaped": 12,
+   "trials": 12,
+   "median": 901.5
+  },
+  {
+   "level": -2.99258058,
+   "escaped": 12,
+   "trials": 12,
+   "median": 716.5
+  },
+  {
+   "level": -1.832093108,
+   "escaped": 12,
+   "trials": 12,
+   "median": 566.0
+  },
+  {
+   "level": -0.110795786,
+   "escaped": 12,
+   "trials": 12,
+   "median": 478.0
+  },
+  {
+   "level": 0.855761945,
+   "escaped": 12,
+   "trials": 12,
+   "median": 405.0
+  },
+  {
+   "level": 1.091106346,
+   "escaped": 12,
+   "trials": 12,
+   "median": 334.0
+  },
+  {
+   "level": 3.017393199,
+   "escaped": 12,
+   "trials": 12,
+   "median": 363.0
+  },
+  {
+   "level": 5.327356351,
+   "escaped": 12,
+   "trials": 12,
+   "median": 281.5
+  },
+  {
+   "level": 6.221151545,
+   "escaped": 12,
+   "trials": 12,
+   "median": 250.5
+  },
+  {
+   "level": 7.508202017,
+   "escaped": 12,
+   "trials": 12,
+   "median": 238.0
+  },
+  {
+   "level": 8.905170683,
+   "escaped": 12,
+   "trials": 12,
+   "median": 209.0
+  }
+ ]
+}

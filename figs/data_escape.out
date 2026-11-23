@@ -1,0 +1,6 @@
+heisenberg    iid           能级数 2  全部逃离 True  中位步数 68–142
+heisenberg    single_cnot   能级数 2  全部逃离 True  中位步数 68–184
+heisenberg    one_direction 能级数 2  全部逃离 True  中位步数 384–786
+random2local  iid           能级数 14  全部逃离 True  中位步数 39–351
+random2local  single_cnot   能级数 14  全部逃离 True  中位步数 30–531
+random2local  one_direction 能级数 14  全部逃离 True  中位步数 209–2160
